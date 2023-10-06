@@ -10,6 +10,7 @@ int main()
     printf("Ingrese el primer lado: ");
     scanf("%d", &ladoA);
 
+
     printf("Ingrese el segundo lado: ");
     scanf("%d", &ladoB);
 
