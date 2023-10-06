@@ -8,7 +8,7 @@ cuenta.*/
 int main()
 {
     int contadorPar, contadorImpar;
-    contadorPar = -1;
+    contadorPar = 0;
     contadorImpar = 0;
     int numero;
 
